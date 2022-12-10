@@ -2,29 +2,17 @@ package com.nawaf.tampilan;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.content.Intent;
 import android.os.Bundle;
-import android.view.View;
-import android.widget.Button;
 
-public class Penyimpanan extends AppCompatActivity {
+public class TambahData extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_penyimpanan);
+        setContentView(R.layout.activity_tambah_data);
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setDisplayShowHomeEnabled(true);
-
-        Button button = findViewById(R.id.btn_tambah_data);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(Penyimpanan.this, TambahData.class);
-                startActivity(intent);
-            }
-        });
     }
 
     @Override

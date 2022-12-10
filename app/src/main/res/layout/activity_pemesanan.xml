@@ -34,7 +34,7 @@
         app:layout_constraintVertical_bias="0.261" />
 
     <com.google.android.material.textfield.TextInputLayout
-        android:id="@+id/til_harga"
+        android:id="@+id/til_harga_tp"
         android:layout_width="411dp"
         android:layout_height="58dp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -44,7 +44,7 @@
         app:layout_constraintVertical_bias="0.0">
 
         <com.google.android.material.textfield.TextInputEditText
-            android:id="@+id/tie_harga"
+            android:id="@+id/tie_harga_tp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/hint_harga"
@@ -60,7 +60,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/til_harga">
+        app:layout_constraintTop_toBottomOf="@+id/til_harga_tp">
 
         <com.google.android.material.textfield.TextInputEditText
             android:id="@+id/tie_bayar"

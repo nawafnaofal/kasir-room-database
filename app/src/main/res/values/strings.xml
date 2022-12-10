@@ -3,21 +3,36 @@
 
     <string name="title_menu">SELAMAT DATANG DI APLIKASI KASIR</string>
     <string name="title_pemesanan">Silahkan Masukan Pesanan</string>
+    <string name="title_tersedia">Produk yang Tersedia</string>
+    <string name="title_produk">Tambah Produk</string>
+    <string name="title_ubah">Ubah Produk</string>
+    <string name="title_transaksi">History Transaksi</string>
+    <string name="title_deatil">Detail Transaksi</string>
 
     <string name="hint_barang">Nama Barang </string>
     <string name="hint_jumlah">Jumlah Beli </string>
     <string name="hint_harga">Harga </string>
     <string name="hint_bayar">Uang Bayar </string>
+    <string name="hint_produk">Nama Produk </string>
+    <string name="hint_stock">Stock </string>
 
     <string name="pemesanan">Pemesanan</string>
     <string name="history_pesanan">History Pesanan</string>
     <string name="perbarui">Perbarui Penyimpanan</string>
     <string name="proses">Proses</string>
     <string name="simpan">Simpan</string>
+    <string name="hapus">Hapus</string>
+    <string name="button_data">+ Tambah Data</string>
 
+    <string name="todo">TODO</string>
     <string name="total_belanja">Total Belanja :</string>
     <string name="diskon">Diskon :</string>
     <string name="kembalian">Uang Kembalian :</string>
-    <string name="todo">TODO</string>
+    <string name="tanggal">Tanggal :</string>
+    <string name="nama_barang">Nama Barang :</string>
+    <string name="jumlah">Jumlah :</string>
+    <string name="total_harga">Total Harga :</string>
+    <string name="potongan">Potongan :</string>
+    <string name="uang_bayar">Uang Bayar :</string>
 
 </resources>
