@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Aplikasi Kasir</string>
+
+    <string name="title_menu">SELAMAT DATANG DI APLIKASI KASIR</string>
+    <string name="title_pemesanan">Silahkan Masukan Pesanan</string>
+
+    <string name="hint_barang">Nama Barang </string>
+    <string name="hint_jumlah">Jumlah Beli </string>
+    <string name="hint_harga">Harga </string>
+    <string name="hint_bayar">Uang Bayar </string>
+
+    <string name="pemesanan">Pemesanan</string>
+    <string name="history_pesanan">History Pesanan</string>
+    <string name="perbarui">Perbarui Penyimpanan</string>
+    <string name="proses">Proses</string>
+    <string name="simpan">Simpan</string>
+
+    <string name="total_belanja">Total Belanja :</string>
+    <string name="diskon">Diskon :</string>
+    <string name="kembalian">Uang Kembalian :</string>
+    <string name="todo">TODO</string>
+
+</resources>
